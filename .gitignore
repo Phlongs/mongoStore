@@ -1,0 +1,7 @@
+/mongo_server
+/node_modules
+dbparams.js
+npm-debug.log
+.DS_Store
+/*.env
+static/bower_components
